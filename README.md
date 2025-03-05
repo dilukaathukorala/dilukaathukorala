@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Diluka Athukorala</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
-<center></center>
+<center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilukaathukorala&label=Profile%20views&color=0e75b6&style=flat" alt="dilukaathukorala" /> </p>
 
 - 🌱 I’m currently learning **MERN Technology**
