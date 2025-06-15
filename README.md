@@ -1,6 +1,6 @@
 <!-- 🎉 Unique Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Hi%20👋%2C%20I'm%20Diluka%20Athukorala&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Enthusiast%20%7C%20UI%2FUX%20Lover&descSize=20&descAlignY=60" alt="Diluka's Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Hi%20👋%2C%20I'm%20Diluka%20Athukorala&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20%7C%20UI%2F&descSize=20&descAlignY=60" alt="Diluka's Banner" />
 </p>
 
 ---
