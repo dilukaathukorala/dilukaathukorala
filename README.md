@@ -51,17 +51,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/dilukaathukorala/dilukaathukorala/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
----
-
-<!-- 🧠 About Me -->
-## 👨‍💻 About Me
-
-```yaml
-name: Diluka Athukorala
-title: Full-Stack Developer (MERN)
-based_in: Sri Lanka 🇱🇰
-learning: TypeScript, Next.js, Docker
-tech_stack: [MongoDB, Express, React, Node]
-interests: [UI/UX Design, Astronomy, Travel]
-email: dilukaathukorala@gmail.com
