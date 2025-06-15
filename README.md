@@ -1,35 +1,26 @@
-<!-- Stylish Intro -->
-<h1 align="center">Hey there 👋, I'm Diluka Athukorala</h1>
-<h3 align="center">🚀 Full-stack Developer | MERN Enthusiast | UI Designer</h3>
-
+<!-- HEADER -->
+<h1 align="center">Hey, I'm Diluka Athukorala 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=00FEEF&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Reality;Building+Modern+Web+Apps;Learning+Something+New+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=500&height=45&lines=Software+Developer+from+Sri+Lanka;MERN+Stack+Developer+%7C+UI%2FUX+Enthusiast;Clean+Code.+Beautiful+Designs.+Powerful+Performance." alt="Typing animation" />
 </p>
 
 ---
 
-<!-- Badges -->
+<!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="mailto:dilukaathukorala@gmail.com"><img src="https://img.shields.io/badge/Email-dilukaathukorala%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/diluka athukorala"><img src="https://img.shields.io/badge/LinkedIn-Diluka-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://instagram.com/diluka_athukorala"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:dilukaathukorala@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/diluka athukorala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/diluka_athukorala"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
+## 👨‍💻 Who Am I?
 ```yaml
 name: Diluka Athukorala
+from: Sri Lanka 🇱🇰
 role: Software Developer
-location: 🇱🇰 Sri Lanka
-skills:
-  - Full Stack (MERN)
-  - UI/UX Design
-  - Database Systems (MySQL, MongoDB)
-currently_learning: TypeScript & DevOps
-hobbies:
-  - Drawing
-  - Exploring tech trends
-  - Space facts!
-fun_fact: A day on Venus is longer than its year 🌌
+stack: [MongoDB, Express.js, React, Node.js]
+focus: Full Stack Web Development
+currently_learning: TypeScript, Next.js, Docker
+hobbies: Design 🎨, Travel ✈️, Astronomy 🔭
