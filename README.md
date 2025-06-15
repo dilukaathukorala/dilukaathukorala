@@ -6,7 +6,7 @@
 ---
 
 <!-- 👤 Quick Intro -->
-<h3 align="center">💻 Software Developer | 🌱 MERN Stack | 🎨 UI/UX Explorer | 🇱🇰 Based in Sri Lanka</h3>
+<h3 align="center">💻 Software Developer | Sri Lanka</h3>
 
 <p align="center">
   <a href="mailto:dilukaathukorala@gmail.com">
