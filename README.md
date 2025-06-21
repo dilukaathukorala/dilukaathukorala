@@ -48,14 +48,11 @@
 
 ---
 
-## 🌆 3D Contribution Graph
+## 🌍 GitHub Globe Map
 
 <p align="center">
-  <a href="https://github-contribution-3d.vercel.app/">
-    <img src="https://github-contribution-3d.vercel.app/preview.gif" alt="3D Contribution Graph Preview" width="700px" />
-  </a>
-  <br />
-  <a href="https://github-contribution-3d.vercel.app/">
-    🔗 Click here to view my live 3D GitHub Contribution City
+  <a href="https://git-globe.vercel.app/">
+    <img src="https://i.imgur.com/dcS6kPS.png" alt="GitHub Globe Screenshot" width="700px" />
   </a>
 </p>
+
