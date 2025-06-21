@@ -48,15 +48,14 @@
 
 ---
 
-<!-- 🌆 3D Contribution Graph -->
 ## 🌆 3D Contribution Graph
 
 <p align="center">
   <a href="https://github-contribution-3d.vercel.app/">
-    <img src="https://github-contribution-3d.vercel.app/preview.gif" alt="3D Contribution Graph" width="70%" />
+    <img src="https://github-contribution-3d.vercel.app/preview.gif" alt="3D Contribution Graph Preview" width="700px" />
   </a>
   <br />
-  <a href="https://github-contribution-3d.vercel.app/" target="_blank">
+  <a href="https://github-contribution-3d.vercel.app/">
     🔗 Click here to view my live 3D GitHub Contribution City
   </a>
 </p>
