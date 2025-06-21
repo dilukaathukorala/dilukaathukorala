@@ -48,11 +48,10 @@
 
 ---
 
-## 🌍 GitHub Globe Map
+## 📊 Metrics Dashboard
 
 <p align="center">
-  <a href="https://git-globe.vercel.app/">
-    <img src="https://i.imgur.com/dcS6kPS.png" alt="GitHub Globe Screenshot" width="700px" />
-  </a>
+  <img src="./github-metrics.svg" alt="Metrics" />
 </p>
+
 
