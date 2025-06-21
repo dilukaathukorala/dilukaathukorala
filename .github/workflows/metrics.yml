@@ -1,0 +1,16 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]  # Runs daily at midnight UTC
+  workflow_dispatch:              # Allows manual run from GitHub Actions tab
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: dilukaathukorala
+          base: header, activity, community, repositories, metadata
